@@ -8,6 +8,7 @@ CSS: Styling and layout
 Visual Studio Code: Development environment
 Live Server Extension: Real-time preview
 
-![Screenshot_23-5-2024_235249_127 0 0 1](https://github.com/hksahanagithub/Web-Dev/assets/164031728/c4fafaa1-f0fe-4c22-91ed-1e79c99d9e99)
+![Screenshot_24-5-2024_0950_127 0 0 1](https://github.com/hksahanagithub/Web-Dev/assets/164031728/6c7664b9-3b36-4fc5-b161-1c53f7f15989)
+
 
 
