@@ -1,0 +1,154 @@
+body {
+    font-family: Arial, sans-serif;
+    margin:0;
+    padding: 70px;
+    line-height: 1.6;
+    background-color: #ffffff;
+    color: #000000;
+    text-align: center;
+    position: relative;
+}
+header {
+    position: center; 
+    height: 100px; 
+}
+
+.company-logo {
+    position: absolute;
+    top: 10px; 
+    right: 20px;
+    width: 200px; 
+    height: auto;
+}
+.welcome-text {
+    text-align: center;
+    color: black;
+    margin-top: 60px;
+}
+
+.welcome-text p {
+    margin: 30px; 
+    line-height: 0;
+}
+
+.corner-image {
+    width: 100px;
+    height: 60px;
+    position: absolute;
+}
+
+.corner-image.left.top {
+    top: 0px;
+    left: 0px;
+}
+
+.corner-image.right.top {
+    top: 0px;
+    right: 0px;
+}
+
+.corner-image.left.bottom {
+    bottom: 0px;
+    left: 0px;
+}
+
+.corner-image.right.bottom {
+    bottom: 0px;
+    right: 0px;
+}
+
+.middle-image.left {
+    width: 100px;
+    height: 60px;
+    position: absolute;
+    top: 74%;
+    transform: translateY(-100%);
+}
+.middle-image.right {
+    width: 100px;
+    height: 60px;
+    position: absolute;
+    top: 47.69%;
+    transform: translateY(-100%);
+}
+.middle-image.left {
+    left: 0px;
+}
+
+.middle-image.right {
+    right: 0px;
+}
+
+.center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.title-button, .section-button {
+    background-color: rgb(192, 20, 186);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 24px;
+}
+
+.welcome-text {
+    margin: 20px 0;
+}
+
+.purple-break-line {
+    color: purple;
+    margin: 20px 0;
+    font-size: 24px;
+}
+
+.section-heading {
+    color: black;
+    margin: 40px 0;
+}
+
+.team {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.team-row {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.team-member {
+    margin: 20px;
+    text-align: center;
+}
+
+.team-member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.team-name {
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+
+.team-role {
+    margin: 0;
+    font-size: 16px;
+    color: rgb(192, 20, 186);
+}
+
+
+
+
